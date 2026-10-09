@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary archives & Windows installers
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.zst
+*.exe
+*.dll
+*.ai
+*.iss
+*.db
+*.bmp
+*.jpg
+*.userd
+Thumbs.db
+
+# Temporary extraction & build directories
+drivers/extracted/
+drivers/Redragon_K530_Keyboard/
+DefaultComponent/
+Files1/
+_Support_*/
+tools/rivalcfg_pkg/
+tools/usr/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec python3 /home/user1/test/tools/k530gui.py "$@"

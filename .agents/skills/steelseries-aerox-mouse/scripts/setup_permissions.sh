@@ -1,0 +1,1 @@
+/home/user1/test/setup_aerox_permissions.sh
